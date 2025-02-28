@@ -1,3 +1,7 @@
+# Archived
+
+Use https://github.com/kubernetes-sigs/aws-iam-authenticator directly instead
+
 # AWS EKS kubectl credential cache
 
 ## Install
